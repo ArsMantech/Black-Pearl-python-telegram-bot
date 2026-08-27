@@ -53,7 +53,7 @@ black-pearl-telegram-bot/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/ArsMantech/black-pearl-python-tele-bot.git
+git clone https://github.com/ArsMantech/black-pearl-python-telegram-bot.git
 cd black-pearl-telegram-bot
 ```
 
